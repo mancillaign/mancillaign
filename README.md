@@ -19,7 +19,7 @@
     camera = 'Sony A7C'
 	hobbies = [
 				'Comics',
-             'Forza 5',
+             			'Forza 5',
 			 	'Photography',
 				'Chilling'
 			]
